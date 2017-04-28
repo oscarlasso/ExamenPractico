@@ -1,0 +1,10 @@
+<resources>
+    <string name="TITULO1">ExamenPractico</string>
+    <string name="TITULO2">CalculodenotaDefinitiva</string>
+    <string name="TITULO3">PrimerNota</string>
+    <string name="TITULO4">SegundaNota</string>
+    <string name="TITULO5">TercerNota</string>
+    <string name="TITULO6">Calcular</string>
+    <string name="TITULO7">AcercaDe</string>
+    <string name="TITULO8">Salir</string>
+</resources>

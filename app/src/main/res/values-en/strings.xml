@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TITULO1">practical test</string>
+    <string name="TITULO2">Final note clap</string>
+    <string name="TITULO3">First Note</string>
+    <string name="TITULO4">Second Note</string>
+    <string name="TITULO5">Third Note</string>
+    <string name="TITULO6">calculate</string>
+    <string name="TITULO7">about</string>
+    <string name="TITULO8">get out</string>
+</resources>
